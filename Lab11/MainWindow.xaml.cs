@@ -18,8 +18,10 @@ using System.Threading;
 
 namespace Lab11
 {
+
+    // Testing changes for github
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml 
     /// </summary>
     public partial class MainWindow : Window
     {
