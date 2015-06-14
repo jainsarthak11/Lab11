@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lab11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <TabControl  Name="tabControl1" TabStripPlacement="Top" FontFamily="Tahoma" FontWeight="Bold" FontSize="18">
+            <TabItem Header="Navigation" Name="tabItem1">
+                <Grid>
+                    <Button Name="button_show" Content="Show Files" Width="120" Height="56" VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="Button_Click"></Button>
+                    <ListBox Name="listbox1" MouseDoubleClick="List_Click" Height="375" Width="788" RenderTransformOrigin="-1.183,-1.247" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="11" Margin="1,0,-1,0"></ListBox>
+                    </Grid>
+            </TabItem>
+            <TabItem Header="File Content" Name="tabItem2">
+                <Grid>
+                    <TextBox Name="textbox3" HorizontalAlignment="Left" Height="436" FontFamily="Arial" FontSize="10" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="788"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

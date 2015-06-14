@@ -1,0 +1,16 @@
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\bin\Debug\Lab11.exe.config
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\bin\Debug\Lab11.exe
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\bin\Debug\Lab11.pdb
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.csprojResolveAssemblyReference.cache
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\MainWindow.baml
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\MainWindow.g.cs
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\App.g.cs
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.cache
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.g.resources
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.Cache
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.exe
+c:\users\sj\documents\visual studio 2013\Projects\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\DevOps\Projects\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\DevOps\Projects\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\DevOps\Projects\Lab11\Lab11\obj\Debug\Lab11.pdb
