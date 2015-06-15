@@ -19,7 +19,7 @@ using System.Threading;
 namespace Lab11
 {
 
-    // Testing github and jenkins integration
+    // Testing github with jenkins integration
     /// <summary>
     /// Interaction logic for MainWindow.xaml 
     /// </summary>
